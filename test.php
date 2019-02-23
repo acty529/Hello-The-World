@@ -1,3 +1,3 @@
 <?php
-    echo "Hello The World!";
+    echo "Hello The World!" "star";
 ?>
